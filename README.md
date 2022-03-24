@@ -1,19 +1,4 @@
-<!--
-**Wiiz971/Wiiz971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1>Hey there! I'm Vincent - aka Wiiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+<h1>Hey, I'm Vincent - aka Wiiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
 <p align="center">
 	I'm a <strong> Engineering Student at the <a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a></strong>.  
@@ -29,6 +14,25 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+<h2> Talking about Personal Stuffs:</h2>
+
+- 🛠 &nbsp; I’m currently working with Python and Matlab  etc.
+- 🚀 &nbsp; I’m currently learning with GEOMETRIC-INFORMED NEURAL NETWORK for the Train Industry specialised in Safe Systems
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wiiz971).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/Wiiz971/Wiiz971/issues/1)! I am happy to help.
+- 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/vincent-azincourt-a2546316a/overlay/1635473005020/single-media-viewer/).
+- 👾 &nbsp; Fun fact: People prefer Python over French.
+<p align="center">
+	<img align="center" height="450" width="575" alt="" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/10/python-antigravity.png"/>
+
+
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love discover new metas that develop following an original trend (coding, music, video games,...)
+- 🎮 &nbsp; Play video games such as League of Legends, TFT, Among Us,...
+- 🍕 &nbsp; Events on the topic of cybersecurity.
+	
 <h2>💻 Projects and Dev Stuffs :</h2>
 <details>
   <summary><b>🧑‍🚀 Open Source Projects</b></summary>
