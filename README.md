@@ -21,7 +21,9 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wiiz971).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Wiiz971/Wiiz971/issues/1)! I am happy to help.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/vincent-azincourt-a2546316a/overlay/1635473005020/single-media-viewer/).
-- 👾 &nbsp; Fun fact: People prefer Python over French.
+- 👾 &nbsp; Fun fact:
+	- People prefer Python over French.
+	- I participated in the Pixel War(a nice summary of internet pop culture) with the Kameto Army. And we proudly represented France !
 <p align="center">
 	<img align="center" height="450" width="575" alt="" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/10/python-antigravity.png"/>
 
@@ -55,6 +57,13 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Wiiz971/partitionnement-de-donnees?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Wiiz971/partitionnement-de-donnees?style=flat-square"/></td>
         <td><p align="center"><a href="https://www.railergy.com/"><b>Railergy</b></a></td>
+      </tr>
+      <tr>
+	      <td><p align="center"><a href="https://github.com/Wiiz971/reddit-place-kcorp"><b>🇫🇷 r/place (member) </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Wiiz971/reddit-place-kcorp?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Wiiz971/reddit-place-kcorp?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Wiiz971/reddit-place-kcorp?style=flat-square"/></td>
+        <td><p align="center"><a href="https://www.reddit.com/r/place/"><b>Reddit (KCORP)</b></a></td>
       </tr>
       <tr>
 	      <td><p align="center"><a href="https://github.com/Wiiz971/AP4A_Submarine_IOT"><b>🤿 Submarine IOT</b></a></td>
