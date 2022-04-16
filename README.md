@@ -25,11 +25,7 @@
 	- People prefer Python over French.
 	- I participated in the Pixel War(a nice summary of internet pop culture) with the Kameto Army. And we proudly represented France !
 <p align="center"> 	
-	<img align="center" height="450" width="575" alt="" src=![image](https://user-images.githubusercontent.com/47423231/163673739-3dda1841-b58d-4be6-982b-e5620c2fe689.png/>
-	![image](https://user-images.githubusercontent.com/47423231/163673739-3dda1841-b58d-4be6-982b-e5620c2fe689.png)
-
-</p>
-
+	<img align="center" height="450" width="575" alt="" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/10/python-antigravity.png"/>
 
 
 
