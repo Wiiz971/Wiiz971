@@ -27,7 +27,8 @@
 <p align="center">
 	![image](https://user-images.githubusercontent.com/47423231/163673739-3dda1841-b58d-4be6-982b-e5620c2fe689.png)
 
-	<img align="center" height="450" width="575" alt="" src="https://user-images.githubusercontent.com/47423231/163673739-3dda1841-b58d-4be6-982b-e5620c2fe689.png"/>
+</p>
+
 
 
 
