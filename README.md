@@ -54,7 +54,6 @@
       </tr>
     </thead>
     <tbody>
-    
       <tr>
 	      <td><p align="center"><a href="https://github.com/Wiiz971/partitionnement-de-donnees"><b>📊 Data Partitioning</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Wiiz971/partitionnement-de-donnees?style=flat-square&labelColor=343b41"/></td>
