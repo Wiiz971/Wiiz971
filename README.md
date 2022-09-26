@@ -16,8 +16,8 @@
 <hr>
 <h2> Talking about Personal Stuffs:</h2>
 
-- 🛠 &nbsp; I’m currently working with Python and Matlab  etc.
-- 🚀 &nbsp; I’m currently learning with GEOMETRIC-INFORMED NEURAL NETWORK for the Train Industry specialised in Safe Systems
+- 🛠 &nbsp; I’m currently working with Python, OpenAI Gym and SARL for Reinforcement Learning (RL)
+- 🚀 &nbsp; I learned with GEOMETRIC-INFORMED NEURAL NETWORK for the Train Industry specialised in Safe Systems
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wiiz971).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Wiiz971/Wiiz971/issues/1)! I am happy to help.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/vincent-azincourt-a2546316a/overlay/1635473005020/single-media-viewer/).
