@@ -2,7 +2,7 @@
 
 <p align="center">
 	I'm an <strong> Engineering Student at the <a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a></strong>.  
-	I'm passionate about: making <strong>open-source</strong> more accessible; cybersecurity and creating software. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I am currently on a 6-month internship in a German company based in Augsburg, <strong><a href="https://railergy.com">Railergy</a></strong>, on a project of Digital Control & Command Systems in Rail
+	I'm passionate about: making <strong>open-source</strong> more accessible; cybersecurity and creating software. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. My last 6-month internship was in a German company based in Augsburg, <strong><a href="https://railergy.com">Railergy</a></strong> in feb. 2022, on a project of Digital Control & Command Systems in Rail
  <br><br>
   This is the place where I opensource stuff and break things 🤣
 </p>
