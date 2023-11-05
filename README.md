@@ -7,7 +7,7 @@
   This is the place where I opensource stuff and break things 🤣
 </p>
 <p align="center">
-	<a href="https://www.linkedin.com/in/vincent-azincourt-a2546316a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+	<a href="https://www.linkedin.com/in/vincent-azincourt/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 	<a href="mailto:azinc.vinc@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
 	<a href="https://discordapp.com/users/216624588887556097"><img alt="Discord" src="https://img.shields.io/badge/Discord-525DDB?style=for-the-badge&logo=discord&logoColor=white"></a>
 	<a href="https://www.paypal.com/paypalme/wiiz971"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>&nbsp;
