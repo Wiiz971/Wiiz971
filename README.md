@@ -22,7 +22,7 @@
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Wiiz971/Wiiz971/issues/1)! I am happy to help.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/vincent-azincourt-a2546316a/overlay/1635473005020/single-media-viewer/).
 - 👾 &nbsp; Fun facts:
-	- People prefer Python over French.
+	- Python is named after the British comedy group "Monty Python's Flying Circus," not the snake...
 	- I participated in the Pixel War(a nice summary of internet pop culture) with the Kameto Army. And we proudly represented France !
 <p align="center"> 	
 	<img align="center" height="450" width="575" alt="" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/10/python-antigravity.png"/>
