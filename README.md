@@ -2,7 +2,7 @@
 
 <p align="center">
 	I'm an <strong> Engineering Student at the <a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a></strong>.  
-	I'm passionate about: making <strong>open-source</strong> more accessible; cybersecurity and creating software. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. My last 6-month internship was in a German company based in Augsburg, <strong><a href="https://railergy.com">Railergy</a></strong> in feb. 2022, on a project of Digital Control & Command Systems in Rail
+	I'm passionate about: making <strong>open-source</strong> more accessible; cybersecurity and creating software. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. My last 6-month internship was in a German company based in Augsburg, <strong><a href="https://railergy.com">Railergy</a></strong> in feb. 2022, on a project of Digital Control & Command Systems in Rail. Currently, I'm exploring the a magic world named Zero-Knowledge which is such a captivating universe !
  <br><br>
   This is the place where I opensource stuff and break things 🤣
 </p>
@@ -16,8 +16,8 @@
 <hr>
 <h2> Talking about Personal Stuffs:</h2>
 
-- 🛠 &nbsp; I’m currently working with Python, OpenAI Gym and SARL for Reinforcement Learning (RL)
-- 🚀 &nbsp; I learned with GEOMETRIC-INFORMED NEURAL NETWORK for the Train Industry specialised in Safe Systems
+- 🛠 &nbsp; I’m currently working on a way to ensure privacy on a PDS though FHE/Anonimisation/Randomization algorithm and ZKML methods.
+- 🚀 &nbsp; I learned with Geometric-Informed Neural Network (GINNs) for the Train Industry specialised in Safe Systems
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wiiz971).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Wiiz971/Wiiz971/issues/1)! I am happy to help.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/vincent-azincourt-a2546316a/overlay/1635473005020/single-media-viewer/).
@@ -54,6 +54,13 @@
       </tr>
     </thead>
     <tbody>
+    	<tr>
+		<td><p align="center"><a href="https://github.com/Wiiz971/Data-privacy-and-security"><b>🤖 隱私資訊安全 - Deep Learning with Differential Privacy </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Wiiz971/mlFlow?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Wiiz971/Data-privacy-and-security?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Wiiz971/Data-privacy-and-security?style=flat-square"/></td>
+        <td><p align="center"><a href="https://www.ntust.edu.tw/"><b>NTUST</b></a></td>
+      	</tr>
 	<tr>
 		<td><p align="center"><a href="https://github.com/Wiiz971/mlFlow"><b>🤖 Machine Learning Lifecycle </b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Wiiz971/mlFlow?style=flat-square&labelColor=343b41"/></td>
