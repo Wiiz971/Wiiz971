@@ -55,7 +55,7 @@
     </thead>
     <tbody>
     	<tr>
-		<td><p align="center"><a href="https://github.com/Wiiz971/Data-privacy-and-security"><b>🤖 隱私資訊安全 - Deep Learning with Differential Privacy </b></a></td>
+		<td><p align="center"><a href="https://github.com/Wiiz971/Data-privacy-and-security"><b>🔐 隱私資訊安全 - Deep Learning with Differential Privacy </b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Wiiz971/mlFlow?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Wiiz971/Data-privacy-and-security?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Wiiz971/Data-privacy-and-security?style=flat-square"/></td>
