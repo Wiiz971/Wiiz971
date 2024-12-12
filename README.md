@@ -1,7 +1,7 @@
 <h1>Hey, I'm Vincent - aka Wiiz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
 <p align="center">
-	I'm an <strong> Cybersecurity Engineer from the <a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a></strong>.  
+	I'm a <strong> Cybersecurity Engineer from the <a href="https://www.utbm.fr/">University of Technology of Belfort-Montbéliard</a></strong>.  
 	I'm passionate about: making <strong>open-source</strong> more accessible; cybersecurity and creating software. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. My last 6-month internship was in a German company based in Augsburg, <strong><a href="https://railergy.com">Railergy</a></strong> in feb. 2022, on a project of Digital Control & Command Systems in Rail. Currently, I'm exploring the a magic world named Zero-Knowledge which is such a captivating universe !
  <br><br>
   This is the place where I opensource stuff and break things 🤣
