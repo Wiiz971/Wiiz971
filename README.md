@@ -75,6 +75,14 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Wiiz971/mlFlow?style=flat-square"/></td>
         <td><p align="center"><a href="https://www.ntust.edu.tw/"><b>NTUST</b></a></td>
       </tr>
+      <tr>
+		<td><p align="center"><a href="https://github.com/Wiiz971/AI50-AI-applied-to-Pacman-and-its-derivatives"><b>📈 [PRIVATE] AI50: AI applied to Pacman and its derivatives </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Wiiz971/AI50-AI-applied-to-Pacman-and-its-derivatives?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Wiiz971/AI50-AI-applied-to-Pacman-and-its-derivatives?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Wiiz971/AI50-AI-applied-to-Pacman-and-its-derivatives?style=flat-square"/></td>
+        <td><p align="center"><a href="https://www.utbm.fr/"><b>UTBM</b></a></td>
+      	</tr>
+	<tr>
 		<td><p align="center"><a href="https://github.com/Wiiz971/lidar_detection"><b>📡 Lidar Detection obstacle </b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Wiiz971/lidar_detection?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Wiiz971/lidar_detection?style=flat-square"/></td>
